@@ -1,0 +1,31 @@
+body 
+{   
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.container 
+{   
+    box-shadow: 8px 5px 5px;
+    margin-top: 60px;
+    height: 200px;
+    width: 400px;
+    background: #45541a;
+}
+
+button 
+{
+
+  
+    color: beige;
+    background: #1a357a;
+    font-size: 17px;
+    margin: 5px;;
+}
+p
+{
+    color: antiquewhite;
+    font-size: 30px;
+}
